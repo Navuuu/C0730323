@@ -10,6 +10,8 @@ namespace C0730323
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(1 + 1);
+            
         }
     }
 }
