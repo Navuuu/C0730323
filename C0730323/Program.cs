@@ -11,6 +11,7 @@ namespace C0730323
         static void Main(string[] args)
         {
             Console.WriteLine(1 + 1);
+            Console.WriteLine(1 + 5);
             
         }
     }
